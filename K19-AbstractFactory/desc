@@ -1,0 +1,5 @@
+Fábrica que encapsula criação de família de objetos concretos;
+Neste caso, Temos a interface para emissor e receptor. As implementações de cada um são 
+escolhidas por um Creator, que é uma Factory. Mas O tipo concreto criado não será setado manualmente,
+mas, Através de implementação de um Factory, que tem como atributo o creator, criando seu tipo de
+emissor e receptor de acordo com a implementação.

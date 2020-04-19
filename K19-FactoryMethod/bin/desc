@@ -1,0 +1,2 @@
+Fábrica que retorna a instância de um objeto de acordo com parâmetro passado para o objeto factory
+Contém 1 interface/classe abstrata, suas implementações/extensões, e uma factory que criará a instância dessejada

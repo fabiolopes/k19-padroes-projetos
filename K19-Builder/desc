@@ -1,0 +1,2 @@
+Centraliza a construção de um objeto concreto a um gerador. Esse gerador recebe na instanciação
+uma implementação de um builder do produto. Esse builder, após preenchido, criará um produto (Boleto) 
